@@ -1,0 +1,14 @@
+img{
+  width: 250px;
+  object-fit: contain;
+  margin-left:500px;
+}
+input{
+  width: 400px;
+  height: 30px;
+  border-radius: 20px;
+  border-color: rgb(241, 237, 237);
+  border: width 0.05px;
+  padding-left: 10px;
+  margin-left: 430px;
+}
